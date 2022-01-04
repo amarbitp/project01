@@ -1,0 +1,10 @@
+NAME	MONTH	FEES
+Aaqib	July	1000
+Sahil	July	1000
+Anish	July	1000
+Suhail	June	1000
+Anish	August	1000
+Sheeraz	July	1000
+Sheeraz	July	1000
+Kumar	Sept	1000
+Sahil Kumar	September	1000
